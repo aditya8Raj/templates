@@ -42,6 +42,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://itagency-template-aditya8raj.vercel.app/](https://itagency-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Vanilla JavaScript
 
+### 🎙️ [Podcast Website](./podcastWebsite/) ↗
+
+**Micro** - Modern template for podcasters and audio content creators
+
+- **Live Demo:** [https://podcast-template-aditya8raj.vercel.app/](https://podcast-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
