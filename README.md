@@ -70,6 +70,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://webagency-template-aditya8raj.vercel.app/](https://webagency-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Bootstrap, jQuery, Owl Carousel, WOW.js
 
+### 🦷 [Dental Services](./dental/) ↗
+
+**Dentelo** - Modern template for dental clinics and healthcare professionals
+
+- **Live Demo:** [https://dental-template-aditya8raj.vercel.app/](https://dental-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
