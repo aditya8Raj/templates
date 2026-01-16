@@ -5,8 +5,13 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-  **A collection of website templates I created while learning web development**
+  **A curated collection of responsive website templates built during my web development journey (2020-2024)**
+  
+  ![Templates](https://img.shields.io/badge/Templates-11-blue?style=flat-square)
+  ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
   
 </div>
 
@@ -14,89 +19,66 @@
 
 ## 📖 About
 
-This repository contains website templates I've built during my web development journey between **2020-2024**.
-Each template is fully responsive, built with clean code, and free to use for personal or commercial projects.
+This repository showcases **professionally crafted website templates** built with clean code, modern design principles, and full responsiveness. Each template is production-ready and **free to use for personal or commercial projects**.
 
 ---
 
-## 📂 Templates
+## 🚀 Templates Overview
 
-### 🏺 [Handmade Products](./handmadeProducts/) ↗
+| #   | Template                                | Description                                       | Live Demo                                                               | Tech Stack                      |
+| --- | --------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------- |
+| 1   | 🏺 [**Craftique**](./handmadeProducts/) | Elegant template for artisans & handmade products | [View Demo →](https://handmadeproducts-template-aditya8raj.vercel.app/) | HTML5, CSS3, JS                 |
+| 2   | 🦷 [**Toothful**](./dentalServices/)    | Modern dental clinic & healthcare services        | [View Demo →](https://toothful-template-aditya8raj.vercel.app)          | HTML5, CSS3, JS, Lottie         |
+| 3   | 💼 [**Solutry**](./itAgency/)           | Professional IT agency & tech startups            | [View Demo →](https://itagency-template-aditya8raj.vercel.app/)         | HTML5, CSS3, JS                 |
+| 4   | 🎙️ [**Micro**](./podcastWebsite/)       | Modern podcast & audio content creators           | [View Demo →](https://podcast-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
+| 5   | ☕ [**Keofi**](./coffeeShop/)           | Warm & inviting coffee shop template              | [View Demo →](https://coffeeshop-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
+| 6   | ✈️ [**Tourest**](./travelAgency/)       | Adventurous travel agency & tour operators        | [View Demo →](https://travelagency-template-aditya8raj.vercel.app/)     | HTML5, CSS3, JS                 |
+| 7   | 🚀 [**AR Web Works**](./webAgency/)     | Full-featured web agency with animations          | [View Demo →](https://webagency-template-aditya8raj.vercel.app/)        | Bootstrap, jQuery, Owl Carousel |
+| 8   | 🦷 [**Dentelo**](./dental/)             | Clean dental clinic template                      | [View Demo →](https://dental-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
+| 9   | 🎨 [**dprod**](./agencyWebsite/)        | Minimalist digital product design agency          | [View Demo →](https://agency-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
+| 10  | 💪 [**Fitlife**](./fitnessClass/)       | Energetic fitness club & gym template             | [View Demo →](https://fitness-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
+| 11  | 📊 [**InnoHub**](./marketingAgency/)    | Professional digital marketing agency             | [View Demo →](https://marketing-template-aditya8raj.vercel.app/)        | HTML5, CSS3, JS                 |
 
-**Craftique** - Elegant template for artisans and handmade product businesses
+---
 
-- **Live Demo:** [https://handmadeproducts-template-aditya8raj.vercel.app/](https://handmadeproducts-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
+## ✨ Features
 
-### 🦷 [Dental Services](./dentalServices/) ↗
+- 📱 **Fully Responsive** - Works seamlessly on all devices
+- 🎨 **Modern Design** - Clean, professional aesthetics
+- ⚡ **Performance Optimized** - Fast loading times
+- 🔧 **Easy to Customize** - Well-organized, commented code
+- 📄 **Comprehensive Documentation** - Each template includes detailed README
+- 🆓 **MIT Licensed** - Free for personal and commercial use
 
-**Toothful** - Modern template for dental clinics and healthcare services
+---
 
-- **Live Demo:** [https://toothful-template-aditya8raj.vercel.app](https://toothful-template-aditya8raj.vercel.app)
-- **Tech:** HTML5, CSS3, JavaScript, Lottie Animations
+## 🛠️ Technologies Used
 
-### 💼 [IT Agency](./itAgency/) ↗
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks**: Bootstrap 4/5
+- **Libraries**: jQuery, Owl Carousel, WOW.js, Lottie
+- **Icons**: Ionicons, Font Awesome
+- **Fonts**: Google Fonts
 
-**Solutry** - Professional template for IT agencies and tech startups
+---
 
-- **Live Demo:** [https://itagency-template-aditya8raj.vercel.app/](https://itagency-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
+## 📂 Repository Structure
 
-### 🎙️ [Podcast Website](./podcastWebsite/) ↗
-
-**Micro** - Modern template for podcasters and audio content creators
-
-- **Live Demo:** [https://podcast-template-aditya8raj.vercel.app/](https://podcast-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### ☕ [Coffee Shop](./coffeeShop/) ↗
-
-**Keofi** - Warm and inviting template for coffee shops and cafés
-
-- **Live Demo:** [https://coffeeshop-template-aditya8raj.vercel.app/](https://coffeeshop-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### ✈️ [Travel Agency](./travelAgency/) ↗
-
-**Tourest** - Adventurous template for travel agencies and tour operators
-
-- **Live Demo:** [https://travelagency-template-aditya8raj.vercel.app/](https://travelagency-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### 🚀 [Web Agency](./webAgency/) ↗
-
-**AR Web Works** - Professional template for web agencies and creative studios
-
-- **Live Demo:** [https://webagency-template-aditya8raj.vercel.app/](https://webagency-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Bootstrap, jQuery, Owl Carousel, WOW.js
-
-### 🦷 [Dental Services](./dental/) ↗
-
-**Dentelo** - Modern template for dental clinics and healthcare professionals
-
-- **Live Demo:** [https://dental-template-aditya8raj.vercel.app/](https://dental-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### 🎨 [Agency Website](./agencyWebsite/) ↗
-
-**dprod** - Minimalist template for digital product design agencies
-
-- **Live Demo:** [https://agency-template-aditya8raj.vercel.app/](https://agency-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### 💪 [Fitness Classes](./fitnessClass/) ↗
-
-**Fitlife** - Energetic template for gyms and fitness clubs
-
-- **Live Demo:** [https://fitness-template-aditya8raj.vercel.app/](https://fitness-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
-
-### 📊 [Marketing Agency](./marketingAgency/) ↗
-
-**InnoHub** - Professional template for digital marketing agencies
-
-- **Live Demo:** [https://marketing-template-aditya8raj.vercel.app/](https://marketing-template-aditya8raj.vercel.app/)
-- **Tech:** HTML5, CSS3, Vanilla JavaScript
+```
+templates/
+├── handmadeProducts/      # Craftique - Artisan products
+├── dentalServices/        # Toothful - Healthcare services
+├── itAgency/              # Solutry - IT agency
+├── podcastWebsite/        # Micro - Podcast platform
+├── coffeeShop/            # Keofi - Coffee shop
+├── travelAgency/          # Tourest - Travel agency
+├── webAgency/             # AR Web Works - Web agency
+├── dental/                # Dentelo - Dental clinic
+├── agencyWebsite/         # dprod - Design agency
+├── fitnessClass/          # Fitlife - Fitness club
+├── marketingAgency/       # InnoHub - Marketing agency
+└── README.md              # This file
+```
 
 ---
 
@@ -111,7 +93,7 @@ MIT License - Free to use for personal and commercial projects.
 **ADITYA RAJ**
 
 - Website: [adityaraj.vercel.app](https://adityaraj.vercel.app)
-- GitHub: [@Aditya8Raj](https://github.com/aditya8Raj)
+- GitHub: [@aditya8raj](https://github.com/aditya8raj)
 
 ---
 
