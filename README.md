@@ -63,6 +63,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://travelagency-template-aditya8raj.vercel.app/](https://travelagency-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Vanilla JavaScript
 
+### 🚀 [Web Agency](./webAgency/) ↗
+
+**AR Web Works** - Professional template for web agencies and creative studios
+
+- **Live Demo:** [https://webagency-template-aditya8raj.vercel.app/](https://webagency-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Bootstrap, jQuery, Owl Carousel, WOW.js
+
 ---
 
 ## 📄 License
