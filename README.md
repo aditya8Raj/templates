@@ -84,6 +84,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://agency-template-aditya8raj.vercel.app/](https://agency-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Vanilla JavaScript
 
+### 💪 [Fitness Classes](./fitnessClass/) ↗
+
+**Fitlife** - Energetic template for gyms and fitness clubs
+
+- **Live Demo:** [https://fitness-template-aditya8raj.vercel.app/](https://fitness-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
