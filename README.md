@@ -9,7 +9,7 @@
   
   **A curated collection of responsive website templates built during my web development journey (2020-2024)**
   
-  ![Templates](https://img.shields.io/badge/Templates-11-blue?style=flat-square)
+  ![Templates](https://img.shields.io/badge/Templates-12-blue?style=flat-square)
   ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
   
@@ -38,6 +38,7 @@ This repository showcases **professionally crafted website templates** built wit
 | 9   | 🎨 [**dprod**](./agencyWebsite/)        | Minimalist digital product design agency          | [View Demo →](https://agency-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
 | 10  | 💪 [**Fitlife**](./fitnessClass/)       | Energetic fitness club & gym template             | [View Demo →](https://fitness-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
 | 11  | 📊 [**InnoHub**](./marketingAgency/)    | Professional digital marketing agency             | [View Demo →](https://marketing-template-aditya8raj.vercel.app/)        | HTML5, CSS3, JS                 |
+| 12  | 🍽️ [**Grilli**](./restaurant/)          | Luxurious fine dining restaurant template         | [View Demo →](https://restaurant-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
 
 ---
 
