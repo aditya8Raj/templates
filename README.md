@@ -32,7 +32,7 @@ Each template is fully responsive, built with clean code, and free to use for pe
 
 **Toothful** - Modern template for dental clinics and healthcare services
 
-- **Live Demo:** [https://toothful.vercel.app/](https://toothful.vercel.app/)
+- **Live Demo:** [toothful-template-aditya8raj.vercel.app](toothful-template-aditya8raj.vercel.app)
 - **Tech:** HTML5, CSS3, JavaScript, Lottie Animations
 
 ### 💼 [IT Agency](./itAgency/) ↗
