@@ -35,6 +35,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://toothful.vercel.app/](https://toothful.vercel.app/)
 - **Tech:** HTML5, CSS3, JavaScript, Lottie Animations
 
+### 💼 [IT Agency](./itAgency/) ↗
+
+**Solutry** - Professional template for IT agencies and tech startups
+
+- **Live Demo:** [https://itagency-template-aditya8raj.vercel.app/](https://itagency-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
