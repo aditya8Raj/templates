@@ -49,6 +49,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://podcast-template-aditya8raj.vercel.app/](https://podcast-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Vanilla JavaScript
 
+### ☕ [Coffee Shop](./coffeeShop/) ↗
+
+**Keofi** - Warm and inviting template for coffee shops and cafés
+
+- **Live Demo:** [https://coffeeshop-template-aditya8raj.vercel.app/](https://coffeeshop-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
