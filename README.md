@@ -56,6 +56,13 @@ Each template is fully responsive, built with clean code, and free to use for pe
 - **Live Demo:** [https://coffeeshop-template-aditya8raj.vercel.app/](https://coffeeshop-template-aditya8raj.vercel.app/)
 - **Tech:** HTML5, CSS3, Vanilla JavaScript
 
+### ✈️ [Travel Agency](./travelAgency/) ↗
+
+**Tourest** - Adventurous template for travel agencies and tour operators
+
+- **Live Demo:** [https://travelagency-template-aditya8raj.vercel.app/](https://travelagency-template-aditya8raj.vercel.app/)
+- **Tech:** HTML5, CSS3, Vanilla JavaScript
+
 ---
 
 ## 📄 License
