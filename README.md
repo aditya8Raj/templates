@@ -9,7 +9,7 @@
   
   **A curated collection of responsive website templates built during my web development journey (2020-2024)**
   
-  ![Templates](https://img.shields.io/badge/Templates-16-blue?style=flat-square)
+  ![Templates](https://img.shields.io/badge/Templates-17-blue?style=flat-square)
   ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
   
@@ -43,6 +43,7 @@ This repository showcases **professionally crafted website templates** built wit
 | 14  | 🚗 [**Autofix**](./carService/)         | Auto maintenance & repair service template        | [View Demo →](https://carservice-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
 | 15  | 🏡 [**Homeverse**](./realEstate/)       | Modern real estate & property listing template    | [View Demo →](https://real-estate-template-aditya8raj.vercel.app/)      | HTML5, CSS3, JS                 |
 | 16  | 🏥 [**Doclab**](./medicalStore/)        | Medical & healthcare website template             | [View Demo →](https://medical-store-template-aditya8raj.vercel.app/)    | HTML5, CSS3, JS                 |
+| 17  | 💼 [**Adex**](./businessAgency/)        | Business agency & consulting services template    | [View Demo →](https://business-agency-template-aditya8raj.vercel.app/)  | HTML5, CSS3, JS                 |
 
 ---
 
