@@ -9,7 +9,7 @@
   
   **A curated collection of responsive website templates built during my web development journey (2020-2024)**
   
-  ![Templates](https://img.shields.io/badge/Templates-18-blue?style=flat-square)
+  ![Templates](https://img.shields.io/badge/Templates-19-blue?style=flat-square)
   ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
   
@@ -25,26 +25,27 @@ This repository showcases **professionally crafted website templates** built wit
 
 ## 🚀 Templates Overview
 
-| #   | Template                                | Description                                       | Live Demo                                                               | Tech Stack                      |
-| --- | --------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------- |
-| 1   | 🏺 [**Craftique**](./handmadeProducts/) | Elegant template for artisans & handmade products | [View Demo →](https://handmadeproducts-template-aditya8raj.vercel.app/) | HTML5, CSS3, JS                 |
-| 2   | 🦷 [**Toothful**](./dentalServices/)    | Modern dental clinic & healthcare services        | [View Demo →](https://toothful-template-aditya8raj.vercel.app)          | HTML5, CSS3, JS, Lottie         |
-| 3   | 💼 [**Solutry**](./itAgency/)           | Professional IT agency & tech startups            | [View Demo →](https://itagency-template-aditya8raj.vercel.app/)         | HTML5, CSS3, JS                 |
-| 4   | 🎙️ [**Micro**](./podcastWebsite/)       | Modern podcast & audio content creators           | [View Demo →](https://podcast-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
-| 5   | ☕ [**Keofi**](./coffeeShop/)           | Warm & inviting coffee shop template              | [View Demo →](https://coffeeshop-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
-| 6   | ✈️ [**Tourest**](./travelAgency/)       | Adventurous travel agency & tour operators        | [View Demo →](https://travelagency-template-aditya8raj.vercel.app/)     | HTML5, CSS3, JS                 |
-| 7   | 🚀 [**AR Web Works**](./webAgency/)     | Full-featured web agency with animations          | [View Demo →](https://webagency-template-aditya8raj.vercel.app/)        | Bootstrap, jQuery, Owl Carousel |
-| 8   | 🦷 [**Dentelo**](./dental/)             | Clean dental clinic template                      | [View Demo →](https://dental-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
-| 9   | 🎨 [**dprod**](./agencyWebsite/)        | Minimalist digital product design agency          | [View Demo →](https://agency-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
-| 10  | 💪 [**Fitlife**](./fitnessClass/)       | Energetic fitness club & gym template             | [View Demo →](https://fitness-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
-| 11  | 📊 [**InnoHub**](./marketingAgency/)    | Professional digital marketing agency             | [View Demo →](https://marketing-template-aditya8raj.vercel.app/)        | HTML5, CSS3, JS                 |
-| 12  | 🍽️ [**Grilli**](./restaurant/)          | Luxurious fine dining restaurant template         | [View Demo →](https://restaurant-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
-| 13  | ✂️ [**Barber**](./salone/)              | Professional hair salon & barber shop template    | [View Demo →](https://salone-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
-| 14  | 🚗 [**Autofix**](./carService/)         | Auto maintenance & repair service template        | [View Demo →](https://carservice-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
-| 15  | 🏡 [**Homeverse**](./realEstate/)       | Modern real estate & property listing template    | [View Demo →](https://real-estate-template-aditya8raj.vercel.app/)      | HTML5, CSS3, JS                 |
-| 16  | 🏥 [**Doclab**](./medicalStore/)        | Medical & healthcare website template             | [View Demo →](https://medical-store-template-aditya8raj.vercel.app/)    | HTML5, CSS3, JS                 |
-| 17  | 💼 [**Adex**](./businessAgency/)        | Business agency & consulting services template    | [View Demo →](https://business-agency-template-aditya8raj.vercel.app/)  | HTML5, CSS3, JS                 |
-| 18  | 🎓 [**EduHome**](./educational/)        | Education & online learning platform template     | [View Demo →](https://educational-template-aditya8raj.vercel.app/)      | HTML5, CSS3, JS                 |
+| #   | Template                                | Description                                       | Live Demo                                                                 | Tech Stack                      |
+| --- | --------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------- |
+| 1   | 🏺 [**Craftique**](./handmadeProducts/) | Elegant template for artisans & handmade products | [View Demo →](https://handmadeproducts-template-aditya8raj.vercel.app/)   | HTML5, CSS3, JS                 |
+| 2   | 🦷 [**Toothful**](./dentalServices/)    | Modern dental clinic & healthcare services        | [View Demo →](https://toothful-template-aditya8raj.vercel.app)            | HTML5, CSS3, JS, Lottie         |
+| 3   | 💼 [**Solutry**](./itAgency/)           | Professional IT agency & tech startups            | [View Demo →](https://itagency-template-aditya8raj.vercel.app/)           | HTML5, CSS3, JS                 |
+| 4   | 🎙️ [**Micro**](./podcastWebsite/)       | Modern podcast & audio content creators           | [View Demo →](https://podcast-template-aditya8raj.vercel.app/)            | HTML5, CSS3, JS                 |
+| 5   | ☕ [**Keofi**](./coffeeShop/)           | Warm & inviting coffee shop template              | [View Demo →](https://coffeeshop-template-aditya8raj.vercel.app/)         | HTML5, CSS3, JS                 |
+| 6   | ✈️ [**Tourest**](./travelAgency/)       | Adventurous travel agency & tour operators        | [View Demo →](https://travelagency-template-aditya8raj.vercel.app/)       | HTML5, CSS3, JS                 |
+| 7   | 🚀 [**AR Web Works**](./webAgency/)     | Full-featured web agency with animations          | [View Demo →](https://webagency-template-aditya8raj.vercel.app/)          | Bootstrap, jQuery, Owl Carousel |
+| 8   | 🦷 [**Dentelo**](./dental/)             | Clean dental clinic template                      | [View Demo →](https://dental-template-aditya8raj.vercel.app/)             | HTML5, CSS3, JS                 |
+| 9   | 🎨 [**dprod**](./agencyWebsite/)        | Minimalist digital product design agency          | [View Demo →](https://agency-template-aditya8raj.vercel.app/)             | HTML5, CSS3, JS                 |
+| 10  | 💪 [**Fitlife**](./fitnessClass/)       | Energetic fitness club & gym template             | [View Demo →](https://fitness-template-aditya8raj.vercel.app/)            | HTML5, CSS3, JS                 |
+| 11  | 📊 [**InnoHub**](./marketingAgency/)    | Professional digital marketing agency             | [View Demo →](https://marketing-template-aditya8raj.vercel.app/)          | HTML5, CSS3, JS                 |
+| 12  | 🍽️ [**Grilli**](./restaurant/)          | Luxurious fine dining restaurant template         | [View Demo →](https://restaurant-template-aditya8raj.vercel.app/)         | HTML5, CSS3, JS                 |
+| 13  | ✂️ [**Barber**](./salone/)              | Professional hair salon & barber shop template    | [View Demo →](https://salone-template-aditya8raj.vercel.app/)             | HTML5, CSS3, JS                 |
+| 14  | 🚗 [**Autofix**](./carService/)         | Auto maintenance & repair service template        | [View Demo →](https://carservice-template-aditya8raj.vercel.app/)         | HTML5, CSS3, JS                 |
+| 15  | 🏡 [**Homeverse**](./realEstate/)       | Modern real estate & property listing template    | [View Demo →](https://real-estate-template-aditya8raj.vercel.app/)        | HTML5, CSS3, JS                 |
+| 16  | 🏥 [**Doclab**](./medicalStore/)        | Medical & healthcare website template             | [View Demo →](https://medical-store-template-aditya8raj.vercel.app/)      | HTML5, CSS3, JS                 |
+| 17  | 💼 [**Adex**](./businessAgency/)        | Business agency & consulting services template    | [View Demo →](https://business-agency-template-aditya8raj.vercel.app/)    | HTML5, CSS3, JS                 |
+| 18  | 🎓 [**EduHome**](./educational/)        | Education & online learning platform template     | [View Demo →](https://educational-template-aditya8raj.vercel.app/)        | HTML5, CSS3, JS                 |
+| 19  | 💼 [**Jack**](./personalPortfolio/)     | Personal portfolio template for developers        | [View Demo →](https://personal-portfolio-template-aditya8raj.vercel.app/) | HTML5, CSS3, JS                 |
 
 ---
 
